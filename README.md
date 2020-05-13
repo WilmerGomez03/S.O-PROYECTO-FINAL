@@ -14,11 +14,11 @@ filesystem que el usuario deberá especificar. El archivo debe aparecer con su t
 completa.
 4. Cantidad de memoria libre y cantidad del espacio de swap en uso (en bytes y porcentaje).
 5. Número de conexiones de red activas actualmente (en estado ESTABLISHED).
+
 El profesor actuará como usuario de la aplicación, y responderá preguntas relacionadas con la
 misma en horas de oficina.
 Deben conformar equipos de dos personas para la presentación del proyecto. La fecha de
 presentación será el miércoles 13-MAY-2020; el proyecto debe entregarse documentado en Github.
 
-Se realizo un Script con las funciones requeridas
-El script se puede correr en sistemas windows
-cuenda con facilidad de uso indicando los pasos y las instrucciones en cada resultado y para cada ingreso de datos necesarios
+*__Se realizo un Script con las funciones requeridas.El script se puede correr en sistemas windows.
+Cuenda con facilidad de uso indicando los pasos y las instrucciones en cada resultado y para cada ingreso de datos necesarios__*

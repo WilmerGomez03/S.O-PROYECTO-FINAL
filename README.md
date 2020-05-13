@@ -1,5 +1,5 @@
 # S.O-PROYECTO-FINAL 
-#Integrantes:
+# Integrantes:
 ## Wilmer Gomez
 ## Francisco Restrepo
 ## Enunciado

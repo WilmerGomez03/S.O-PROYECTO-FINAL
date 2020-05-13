@@ -7,11 +7,11 @@ $Selection =-1
 Do{
 	#Muestra el menu de seleccion para el usuario
 	$Selection = Read-Host "Digite el número de las siguientes opciones para ejecutar la acción:
-	1.Top 5 de procesos	que más CPU estan consumiendo.
+	1.Top 5 de procesos que más CPU estan consumiendo.
 	2.Detalles de los filesystems o discos conectados.
 	3.Ver el archivo más grande almacenado en una ubicación.
 	4.Ver memoria libre y espacio de swap en uso.
-	5.Mostrar el número de conexiones de red activas actualmente."
+	5.Mostrar el número de conexiones de red activas actualmente.`n"
 	
 	#Switch que evalua la seleccion del usuario inciando una accion seleccionada o en su defecto reiniciando el menu de opciones
 	switch($Selection){
